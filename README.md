@@ -1,0 +1,1 @@
+This repo demonstrates the html and git skills I've been taught by The Odin Project.
